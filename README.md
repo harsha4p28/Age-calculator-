@@ -8,7 +8,11 @@ Features:
 
 Calculates the user's current age based on the input provided.
 Displays the detailed breakdown of time passed:
+
 Seconds passed.
+
 Minutes passed.
+
 Hours passed.
+
 Days, months, and years passed.
